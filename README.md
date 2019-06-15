@@ -7,3 +7,5 @@ The code trains two models, GMM alone, and gmm-ubm via UBM.
 1. Train GMM with data of 4 people.
 2. Train UBM with data of 17 people, and get gm-ubm with data of 4 people through MAP
 The results of classification confusion matrix of four users by gm-ubm are presented, and the performance comparison between GMM and gm-ubm is presented in the histogram.
+
+To run the code, open main.m and run it. It will first train a model and then test the model. The training model has been trained successully and upload.
